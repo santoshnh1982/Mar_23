@@ -3,7 +3,7 @@
 class HelloWorld {
 <<<<<<< HEAD
     public static void main(args) {
-        System.out.println("Hello, Great night was yesterday!"); 
+        System.out.println("Hello, Great night was yesterday than today!"); 
     }
 }
 
